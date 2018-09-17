@@ -10,7 +10,7 @@ How to Run the application:
 3. copy the endpoint and the service key
 4. Open the .sln from visual studio 2015 or above
 5. replace the key and endpoint in the Faceform.cs file
-6. run the application after you build.
+6. run the application after you build(Before building run restore nuget packages).
 
 Create a folder with person name subfolders...place images of the person in each folder. 
 Create a group using the root folder.
