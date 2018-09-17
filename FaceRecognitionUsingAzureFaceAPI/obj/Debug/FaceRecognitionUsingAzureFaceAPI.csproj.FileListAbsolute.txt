@@ -1,0 +1,14 @@
+c:\users\nagendhar.vuppunuthu\documents\visual studio 2015\Projects\FaceRecognitionUsingAzureFaceAPI\FaceRecognitionUsingAzureFaceAPI\obj\Debug\FaceRecognitionUsingAzureFaceAPI.csprojResolveAssemblyReference.cache
+c:\users\nagendhar.vuppunuthu\documents\visual studio 2015\Projects\FaceRecognitionUsingAzureFaceAPI\FaceRecognitionUsingAzureFaceAPI\obj\Debug\FaceRecognitionUsingAzureFaceAPI.FaceForm.resources
+c:\users\nagendhar.vuppunuthu\documents\visual studio 2015\Projects\FaceRecognitionUsingAzureFaceAPI\FaceRecognitionUsingAzureFaceAPI\obj\Debug\FaceRecognitionUsingAzureFaceAPI.Properties.Resources.resources
+c:\users\nagendhar.vuppunuthu\documents\visual studio 2015\Projects\FaceRecognitionUsingAzureFaceAPI\FaceRecognitionUsingAzureFaceAPI\obj\Debug\FaceRecognitionUsingAzureFaceAPI.csproj.GenerateResource.Cache
+c:\users\nagendhar.vuppunuthu\documents\visual studio 2015\Projects\FaceRecognitionUsingAzureFaceAPI\FaceRecognitionUsingAzureFaceAPI\bin\Debug\FaceRecognitionUsingAzureFaceAPI.exe.config
+c:\users\nagendhar.vuppunuthu\documents\visual studio 2015\Projects\FaceRecognitionUsingAzureFaceAPI\FaceRecognitionUsingAzureFaceAPI\bin\Debug\FaceRecognitionUsingAzureFaceAPI.exe
+c:\users\nagendhar.vuppunuthu\documents\visual studio 2015\Projects\FaceRecognitionUsingAzureFaceAPI\FaceRecognitionUsingAzureFaceAPI\bin\Debug\FaceRecognitionUsingAzureFaceAPI.pdb
+c:\users\nagendhar.vuppunuthu\documents\visual studio 2015\Projects\FaceRecognitionUsingAzureFaceAPI\FaceRecognitionUsingAzureFaceAPI\bin\Debug\Microsoft.ProjectOxford.Common.dll
+c:\users\nagendhar.vuppunuthu\documents\visual studio 2015\Projects\FaceRecognitionUsingAzureFaceAPI\FaceRecognitionUsingAzureFaceAPI\bin\Debug\Microsoft.ProjectOxford.Face.dll
+c:\users\nagendhar.vuppunuthu\documents\visual studio 2015\Projects\FaceRecognitionUsingAzureFaceAPI\FaceRecognitionUsingAzureFaceAPI\bin\Debug\Newtonsoft.Json.dll
+c:\users\nagendhar.vuppunuthu\documents\visual studio 2015\Projects\FaceRecognitionUsingAzureFaceAPI\FaceRecognitionUsingAzureFaceAPI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\nagendhar.vuppunuthu\documents\visual studio 2015\Projects\FaceRecognitionUsingAzureFaceAPI\FaceRecognitionUsingAzureFaceAPI\bin\Debug\Newtonsoft.Json.xml
+c:\users\nagendhar.vuppunuthu\documents\visual studio 2015\Projects\FaceRecognitionUsingAzureFaceAPI\FaceRecognitionUsingAzureFaceAPI\obj\Debug\FaceRecognitionUsingAzureFaceAPI.exe
+c:\users\nagendhar.vuppunuthu\documents\visual studio 2015\Projects\FaceRecognitionUsingAzureFaceAPI\FaceRecognitionUsingAzureFaceAPI\obj\Debug\FaceRecognitionUsingAzureFaceAPI.pdb
